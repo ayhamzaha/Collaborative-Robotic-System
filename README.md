@@ -137,7 +137,8 @@ Testing demonstrated how natural language processing, task efficiency, and objec
   - Trouble areas included:
     - Difficulty understanding accented speech.
     - Increased computation time for longer commands.
-  - Ease of use test results.![Ease of Use Scores](assets/easeofusedata.png)
+  - Ease of use test results.
+  - ![Ease of Use Scores](assets/easeofusedata.png)
 
 - **Efficiency**
 
@@ -149,7 +150,8 @@ Testing demonstrated how natural language processing, task efficiency, and objec
   - Findings:
     - More commands and greater object distance **increased task completion time**.
     - Fail cases (object removed or arm blocked) showed **similar response times**.
-  - Time test results.![Efficiency Test Results](assets/timetrial.png)
+  - Time test results.
+  - ![Efficiency Test Results](assets/timetrial.png)
 
 - **Accuracy**
   - **Object classification:** 98% accuracy for red, green, and blue cubes (under controlled lighting).
